@@ -3,17 +3,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif" >
 
-- 🐱‍🏍 I’m currently working on **GsTracker**
+- 🐱‍🏍 I’m currently working on **PT GS Battery**
 
-- 👨‍💻 All of my projects are available at [nsukmana-dev.github.io](nsukmana-dev.github.io)
+- 👨‍💻 All of my projects are available at [nsukmana-dev.github.io](https://nsukmana-dev.github.io)
 
-- 🖥 See my project right now on [Playstore](https://play.google.com/store/apps/details?id=com.gsdash)
+- 🖥 See my project right now at [Playstore](https://play.google.com/store/apps/details?id=com.gsdash)
 
 - 📫 How to reach me **nandarsukmana78@gmail.com**
 
 <h3 align="left">Connect with me: </h3>
 
-- 📞 [+62-812-9472-4747](wa.me/6281294724747)
+- 📞 [+62-812-9472-4747](https://wa.me/6281294724747)
 
 <p align="left">
 </p>
