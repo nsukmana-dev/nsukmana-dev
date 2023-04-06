@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nandar Sukmana</h1>
 <h3 align="center">A Fullstack programmer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" >
+<img align="right" alt="Coding" width="400" src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif" >
 
 - 🐱‍🏍 I’m currently working on **GsTracker**
 
 - 👨‍💻 All of my projects are available at [nsukmana-dev.github.io](nsukmana-dev.github.io)
 
-- 🖥 See my project right now on [playstore](https://play.google.com/store/apps/details?id=com.gsdash)
+- 🖥 See my project right now on [Playstore](https://play.google.com/store/apps/details?id=com.gsdash)
 
 - 📫 How to reach me **nandarsukmana78@gmail.com**
 
