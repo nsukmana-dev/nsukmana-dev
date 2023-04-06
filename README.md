@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [nsukmana-dev.github.io](nsukmana-dev.github.io)
 
+- 🌱 See my project right now on [playstore](https://play.google.com/store/apps/details?id=com.gsdash)
+
 - 📫 How to reach me **nandarsukmana78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
