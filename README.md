@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 Currently working at **DBC Corps**
+- 🔭 Currently working at **DBC Corps** as **Application Development Section Head**
 - 🌐 Portfolio: [nsukmana-dev.github.io](https://nsukmana-dev.github.io)
 - 📱 Mobile Project: [GSDash on Play Store](https://play.google.com/store/apps/details?id=com.gsdash)
 - 📫 Reach me: **nandarsukmana78@gmail.com**
