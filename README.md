@@ -9,7 +9,7 @@
 
 ### 👨‍💼 About Me
 
-- 🏢 Leading the **Application Development Section** at **DBC Group** (Djabesmen, Rucika, Granito, and other business units)
+- 🏢 Application Development Section Head at **DBC Group** (Djabesmen, Rucika, Granito, and other business units)
 - 🧩 Overseeing **150+ internal web applications** across the group's server infrastructure
 - 🏗️ Architected and delivered key company-wide infrastructure:
   - **Centralized API Gateway**
