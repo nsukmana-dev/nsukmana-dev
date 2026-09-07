@@ -15,7 +15,6 @@
   - **Centralized API Gateway**
   - **Portal SSO** (Single Sign-On)
   - **Centralized Master Data System**
-- 👥 Leading a team of **4 vendor engineers**, collaborating with **11 internal peers**
 - 💼 **9+ years** of hands-on experience across fullstack development and system architecture
 - 📱 Mobile Project: [GSDash on Play Store](https://play.google.com/store/apps/details?id=com.gsdash)
 - 🌐 Portfolio: [nsukmana-dev.github.io](https://nsukmana-dev.github.io)
