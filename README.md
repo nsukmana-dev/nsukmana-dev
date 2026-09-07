@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandar Sukmana</h1>
-<h3 align="center">🚀 Fullstack Programmer | Backend Enthusiast | Tech Explorer</h3>
+<h3 align="center">Application Development Section Head @ DBC Group | Fullstack Engineer | Systems Architect</h3>
 
 <p align="center">
   <img src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif" alt="Coding" width="400" />
@@ -7,10 +7,19 @@
 
 ---
 
-- 🔭 Currently working at **DBC Corps** as **Application Development Section Head**
-- 🌐 Portfolio: [nsukmana-dev.github.io](https://nsukmana-dev.github.io)
+### 👨‍💼 About Me
+
+- 🏢 Leading the **Application Development Section** at **DBC Group** (Djabesmen, Rucika, Granito, and other business units)
+- 🧩 Overseeing **150+ internal web applications** across the group's server infrastructure
+- 🏗️ Architected and delivered key company-wide infrastructure:
+  - **Centralized API Gateway**
+  - **Portal SSO** (Single Sign-On)
+  - **Centralized Master Data System**
+- 👥 Leading a team of **4 vendor engineers**, collaborating with **11 internal peers**
+- 💼 **9+ years** of hands-on experience across fullstack development and system architecture
 - 📱 Mobile Project: [GSDash on Play Store](https://play.google.com/store/apps/details?id=com.gsdash)
-- 📫 Reach me: **nandarsukmana78@gmail.com**
+- 🌐 Portfolio: [nsukmana-dev.github.io](https://nsukmana-dev.github.io)
+- 📫 Email: **nandarsukmana78@gmail.com**
 - 💬 WhatsApp: [+62 812-9472-4747](https://wa.me/6281294724747)
 
 ---
@@ -28,8 +37,6 @@
 #### 🖥️ Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -47,15 +54,16 @@
 #### 🛠 Tools & Platforms
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kong](https://img.shields.io/badge/-Kong%20Gateway-003459?style=for-the-badge&logo=kong&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 #### 🌐 Web Essentials
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
