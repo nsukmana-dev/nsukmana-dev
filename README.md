@@ -67,8 +67,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nsukmana-dev&show_icons=true&theme=github_dark&locale=en&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsukmana-dev&show_icons=true&layout=compact&theme=github_dark&locale=en" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nsukmana-dev&show_icons=true&theme=github_dark&locale=en&cache_seconds=86400" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsukmana-dev&show_icons=true&layout=compact&theme=github_dark&locale=en&cache_seconds=86400" height="150" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsukmana-dev&theme=github-dark&hide_border=false" />
