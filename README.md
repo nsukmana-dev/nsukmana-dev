@@ -60,15 +60,15 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Kong Gateway](https://img.shields.io/badge/-Kong%20Gateway-003459?style=for-the-badge&logo=kong&logoColor=white)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColo
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nsukmana-dev&show_icons=true&theme=github_dark&locale=en" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nsukmana-dev&show_icons=true&layout=compact&theme=github_dark&locale=en" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nsukmana-dev&show_icons=true&theme=github_dark&locale=en&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsukmana-dev&show_icons=true&layout=compact&theme=github_dark&locale=en" height="150" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsukmana-dev&theme=github-dark&hide_border=false" />
