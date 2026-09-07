@@ -66,8 +66,29 @@
 
 ### 📈 GitHub Stats
 
+### 📈 GitHub Stats
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/nsukmana-dev/nsukmana-dev/main/metrics.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nsukmana-dev&theme=github_dark&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nsukmana-dev&theme=github-compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsukmana-dev&theme=github-dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsukmana-dev/nsukmana-dev/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/nsukmana-dev/nsukmana-dev/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
