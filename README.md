@@ -74,6 +74,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsukmana-dev&theme=github-dark&hide_border=false" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsukmana-dev/nsukmana-dev/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/nsukmana-dev/nsukmana-dev/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ### 🤝 Let's Connect
