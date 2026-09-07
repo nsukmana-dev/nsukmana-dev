@@ -73,14 +73,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nsukmana-dev&theme=github_dark&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nsukmana-dev&theme=github-compact" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsukmana-dev&theme=github-dark&hide_border=false" />
 </p>
 
